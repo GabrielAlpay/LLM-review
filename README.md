@@ -29,7 +29,7 @@ it was interesting to learn from the LLM response that immutability is one of FP
 ## Question:
 What are higher-order functions and how have they influenced modern programming practices?
 
-## LLM Exploration:
+## LLM Response:
 Higher-order functions, which can take other functions as arguments or return them, have revolutionized code reuse and modularity. Their influence is evident in mainstream languages like JavaScript (map, reduce) and Python.
 
 I was fascinated to learn that using higher-order functions has been transformative. Reading more on this has led me to learn that the shift towards abstraction has made code shorter and easier to understand and more flexible. For example, you can easily swap out functions in higher-order constructs to change behavior without rewriting entire blocks of code.
