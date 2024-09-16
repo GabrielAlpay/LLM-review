@@ -14,7 +14,7 @@ What were the core challenges functional programming was designed to address?
 ## LLM response:
 Functional programming began as a reaction to the challenges of handling mutable state and side effects in larger programs. By focusing on pure functions and immutability, FP sought to make code more predictable and simpler to understand, particularly in concurrent systems.
 
-** It ** was interesting to learn about how the shift towards immutability and pure functions was essential for improving program reliability. I researhced online a bit more on this and I further learned that mutable state in imperative programming has often been the root cause of subtle bugs and performance issues.
+It was interesting to learn about how the shift towards immutability and pure functions was essential for improving program reliability. I researhced online a bit more on this and I further learned that mutable state in imperative programming has often been the root cause of subtle bugs and performance issues.
 Immutability and Its Role in Modern Development
 
 ## Follow-up Question:
@@ -48,7 +48,7 @@ It was interesting to learn that FP's focus on immutability helps to deal with m
 The ideas of functional programming have had a significant effect on software development. Mainstream languages have embraced concepts such as immutability, higher-order functions, and lazy evaluation, leading to enhanced code modularity, safety, and performance. Functional programming's impact persists in shaping our approach to addressing intricate software engineering challenges today.
 
 ## References
-Harold Abelson and Gerald Jay Sussman, "Structure and Interpretation of Computer Programs" – A seminal text on functional programming and its foundations.
-John Hughes, "Why Functional Programming Matters" (1984) – Discusses the advantages of functional programming in terms of modularity and code reuse.
-Simon Peyton Jones, "The Implementation of Functional Programming Languages" (1987) – An influential book detailing the design and implementation of languages like Haskell.
-Maurice Herlihy and Nir Shavit, "The Art of Multiprocessor Programming" – Examines how functional programming ideas such as immutability contribute to safe concurrent programming.
+- Harold Abelson and Gerald Jay Sussman, "Structure and Interpretation of Computer Programs"
+-John Hughes, "Why Functional Programming Matters" (1984)
+-Simon Peyton Jones, "The Implementation of Functional Programming Languages" (1987) 
+-Maurice Herlihy and Nir Shavit, "The Art of Multiprocessor Programming"
