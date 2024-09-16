@@ -48,7 +48,7 @@ It was interesting to learn that FP's focus on immutability helps to deal with m
 The ideas of functional programming have had a significant effect on software development. Mainstream languages have embraced concepts such as immutability, higher-order functions, and lazy evaluation, leading to enhanced code modularity, safety, and performance. Functional programming's impact persists in shaping our approach to addressing intricate software engineering challenges today.
 
 ## References
-- Harold Abelson and Gerald Jay Sussman, "Structure and Interpretation of Computer Programs"
+- [Harold Abelson and Gerald Jay Sussman], "Structure and Interpretation of Computer Programs"
 -John Hughes, "Why Functional Programming Matters" (1984)
 -Simon Peyton Jones, "The Implementation of Functional Programming Languages" (1987) 
 -Maurice Herlihy and Nir Shavit, "The Art of Multiprocessor Programming"
