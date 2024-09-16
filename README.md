@@ -25,7 +25,6 @@ Immutability guarantees that data does not change once it is created. This enhan
 
 it was interesting to learn from the LLM response that immutability is one of FP's most valuable contributions to modern programming. I looked into this further and discovered that in multi-threaded environments, mutable shared state results in race conditions or inconsistent states and that ultimatley functional languages aid developers in producing more dependable and sustainable code by promoting immutability.
 
-## Higher-Order Functions and Their Impact
 ## Question:
 What are higher-order functions and how have they influenced modern programming practices?
 
@@ -35,7 +34,6 @@ Higher-order functions, which can take other functions as arguments or return th
 I was fascinated to learn that using higher-order functions has been transformative. Reading more on this has led me to learn that the shift towards abstraction has made code shorter and easier to understand and more flexible. For example, you can easily swap out functions in higher-order constructs to change behavior without rewriting entire blocks of code.
 
 
-## Concurrency and Safe Parallelism
 ## Question:
 Why is functional programming often considered safer for concurrent programming?
 
