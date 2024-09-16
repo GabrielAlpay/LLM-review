@@ -1,17 +1,20 @@
 
-Topic
+## Topic
 Exploring the Contributions of Functional Programming Languages to Software Development
-Introduction
+
+## Introduction
 Functional programming languages have brought about significant advancements that have changed the way developers approach software design. Ideas like immutability, higher-order functions, and lazy evaluation have gone beyond functional languages and have become part of mainstream programming. Using ChatGPT, I explored how these functional programming concepts have impacted software development
 Discussion with the LLM
 The Origins and Core Ideas of Functional Programming
 Exploration:
-I started by asking ChatGPT:
+
+## I started by asking ChatGPT:
 What were the core challenges functional programming was designed to address?
-LLM response:
+
+## LLM response:
 Functional programming began as a reaction to the challenges of handling mutable state and side effects in larger programs. By focusing on pure functions and immutability, FP sought to make code more predictable and simpler to understand, particularly in concurrent systems.
 
-It was interesting to learn about how the shift towards immutability and pure functions was essential for improving program reliability. I researhced online a bit more on this and I further learned that mutable state in imperative programming has often been the root cause of subtle bugs and performance issues.
+** It was interesting to learn about how the shift towards immutability and pure functions was essential for improving program reliability. I researhced online a bit more on this and I further learned that mutable state in imperative programming has often been the root cause of subtle bugs and performance issues.
 Immutability and Its Role in Modern Development
 Follow-up Question:
 Why is immutability such an important concept in functional programming?
